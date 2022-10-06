@@ -1,0 +1,161 @@
+body {
+  background-color: #151515;
+  color: rgb(196, 194, 194);
+  font-family: "Gemunu Libre", sans-serif;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.head_name {
+  font-size: 50px;
+  position: relative;
+  left: -2px;
+  margin-bottom: 20px;
+}
+
+.linkedin {
+  width: 40px;
+
+  width: 20px;
+}
+
+.linkedin:hover {
+  background-color: #0077b5;
+}
+
+.gmail {
+  margin-left: 20px;
+  position: relative;
+  top: 1px;
+  width: 20px;
+}
+
+.exp {
+  font-size: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+  left: -11px;
+}
+
+.hog-exp {
+  margin-left: 80px;
+  color: #625d5d;
+}
+
+.hog {
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.hog-des {
+  font-size: 30px;
+  position: relative;
+  bottom: 5px;
+}
+
+.hog-desc2 {
+  font-size: 15px;
+  position: relative;
+  bottom: 10px;
+}
+
+.hr {
+  margin-top: 30px;
+  width: 100px;
+  height: 80px;
+  float: left;
+  margin-right: 20px;
+}
+
+.hr-des {
+  font-size: 30px;
+  margin-top: 55px;
+}
+
+.hr-desc2 {
+  font-size: 15px;
+  position: relative;
+  bottom: 10px;
+}
+
+.proj {
+  font-size: 150px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  position: relative;
+  left: -11px;
+}
+
+.proj-exp {
+  margin-left: 80px;
+  color: #625d5d;
+  font-size: 30px;
+}
+
+.ach {
+  font-size: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+  left: -11px;
+}
+
+.ach-exp {
+  margin-left: 80px;
+  color: #625d5d;
+}
+
+.google-code {
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.google-desc {
+  font-size: 30px;
+  position: relative;
+  bottom: 5px;
+}
+
+.oly {
+  margin-top: 100px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+  margin-left: -118px;
+}
+
+.oly-des {
+  font-size: 30px;
+  margin-top: 125px;
+}
+
+.footer1 {
+  margin-top: 350px;
+  margin-left: 350px;
+}
+
+.year {
+  color: #625d5d;
+  font-size: 25px;
+  margin-left: 610px;
+  position: relative;
+  bottom: 54px;
+}
+
+.email {
+  color: #625d5d;
+  margin-left: 530px;
+  position: relative;
+  bottom: 54px;
+}
+
+.footer2 {
+  color: #625d5d;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  margin-left: 485px;
+}
